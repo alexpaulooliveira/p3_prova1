@@ -1,0 +1,10 @@
+INSTRUÇÕES
+
+Cada aluno deve enviar suas respostas para o e-mail professor@alexpaulo.com
+Com o seguinte formato "Questão/Resposta". Observe o exemplo abaixo:
+
+1/A
+2/B
+3/C
+4/D
+5/E
